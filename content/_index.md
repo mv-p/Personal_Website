@@ -1,14 +1,14 @@
 ---
-action_label: Read More &rarr;
+action_label: Keep Swimming &rarr;
 action_link: /about
 action_type: text
 description: 
 image_left: true
 images:
-- img/revoir.jpg
+- img/rsmasbeach.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD Candidate at The University of Miami
+subtitle: PhD Candidate at The University of Miami --- "Site under construction"
 text_align_left: false
 title: Matt Varkony
 type: home
