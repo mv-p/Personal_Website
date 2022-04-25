@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "research", "talks"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "mv_p_"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -123,34 +123,29 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
     weight = 3
+  [[menu.header]]
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
+    weight = 2
   ##[[menu.header]]
-  ##  name = "Talks"
-  ##  title = "Talks"
-  ##  url = "/talk/"
-  ##  weight = 4
-##  [[menu.header]]
-  ##  name = "A collection"
-  ##  title = "A collection"
-  ##  url = "/collection/"
-  ##  weight = 5
-##  [[menu.header]]
-  ##  name = "Elements"
-  ##  title = "Element Page"
-  ##  url = "/elements/"
-  ##  weight = 6
+    ##name = "A collection"
+    ##title = "A collection"
+    ##url = "/collection/"
+    ##weight = 4
+  ##[[menu.header]]
+    ##name = "Elements"
+    ##title = "Element Page"
+    ##url = "/elements/"
+    ##weight = 5
     
   # Configure footer  
   [[menu.footer]]

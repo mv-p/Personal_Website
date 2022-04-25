@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   My research explores the preparation and response to various coastal hazards using rigorous quantitative methods. My current work includes vulnerability analysis, disaster impact analysis, and the politics of climate adaptation. 
   
-  Much of my analysis is conducted using spatial statistics as well as advanced econometric techniques. I am well versed in the program langugages ArcGIS and `R`.
+  Most of my analysis uses spatial statistics in addition to advanced econometric techniques. I am well versed in the program langugages ArcGIS and `R`.
   
 
 show_outro: false
