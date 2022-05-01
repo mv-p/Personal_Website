@@ -1,9 +1,9 @@
 ---
 author: "" 
 cascade:
-  author: ""
-  show_author_byline: false
-  show_comments: false
+  author: "Matt Varkony"
+  show_author_byline: true
+  show_comments: true
   show_post_date: false
   show_post_time: false
   sidebar:
