@@ -129,12 +129,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "Research"
-    #url = "/talk/"
+    url = "/talk/"
     weight = 2
    [[menu.header]]
     name = "Blog"
     title = "Blog"
-    #url = "/blog/"
+    url = "/blog/"
     weight = 3
   ##[[menu.header]]
     ##name = "Elements"
