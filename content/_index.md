@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: | 
   PhD Candidate at The University of Miami ----
-  "Site under construction"
+  "Site undergoing adaptation work"
 text_align_left: false
 title: Matt Varkony
 type: home

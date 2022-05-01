@@ -32,8 +32,8 @@ enableEmoji = true
   orgLocal = " "
   #description = "A modern, beautiful, and easily configurable blog theme for Hugo"
   favicon = "/img/favicon.ico"
-  logo = "/img/water.png"
-  mainSections = ["blog", "research", "talks"]
+  logo = "/img/u.png"
+  mainSections = [""]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -126,26 +126,21 @@ enableEmoji = true
     title = "About Me"
     url = "/about/"
     weight = 1
-  # [[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 3
- # [[menu.header]]
-  #  name = "Talks"
-  #  title = "Talks"
-  #  url = "/talk/"
-  #  weight = 2
-  ##[[menu.header]]
-    ##name = "A collection"
-    ##title = "A collection"
-    ##url = "/collection/"
-    ##weight = 4
+  [[menu.header]]
+    name = "Research"
+    title = "Research"
+    #url = "/talk/"
+    weight = 2
+   [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    #url = "/blog/"
+    weight = 3
   ##[[menu.header]]
     ##name = "Elements"
     ##title = "Element Page"
     ##url = "/elements/"
-    ##weight = 5
+    ##weight = 4
     
   # Configure footer  
   [[menu.footer]]
