@@ -9,8 +9,8 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle: | 
-  PhD Candidate at The University of Miami ----
-  "Site undergoing adaptation work"
+  PhD Candidate at The University of Miami
+description: 'This website provides background on my research interests, current work, and publications' 
 text_align_left: false
 title: Matt Varkony
 type: home
