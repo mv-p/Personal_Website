@@ -1,127 +1,34 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
+title: "Striving for Improvement: The Perceived Value of Improving Hurricane Forecast Accuracy"
+subtitle: ""
+excerpt: "What are United States coastal citizens willing to pay for improvements in hurricane forecast accuracy?"
+date: 2021-07-01
+author: "Matthew Varkony"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
-layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
-tags:
-- hugo-site
-title: Tachyons for Style
+featured: true
+show_post_thumbnail: false
+categories: 
+  - Public Goods 
+  - Willingness to Pay 
+  - Stated Preference
+  
+images: 
+  - /projects/giraffes/CovariatesMap.png
+  
+links: 
+  - icon: book-open 
+    icon_pack: fas
+    name: AMS 
+    url: https://journals.ametsoc.org/view/journals/bams/102/7/BAMS-D-20-0179.1.xml
+  - icon: github
+    icon_pack: fab
+    name: code
+    url: https://github.com/renatomolinah/cv_hurricane_forecast
+    
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+**Co-Authors:** [Renato Molina](https://renatomolinah.com), [David Letson](https://scholar.google.com/citations?hl=en&user=RxexRawAAAAJ&view_op=list_works&sortby=pubdate), [Palab Mozumder](https://scholar.google.com/citations?user=3g4bc9UAAAAJ&hl=en), [Brian McNoldy](https://bmcnoldy.rsmas.miami.edu)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+## Paper Abstract: 
 
----
-
-### Because Speed
-
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
-
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
-
-### BYOTachyons
-
-One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
-contributed by the community. All those components are built to work with the
-Tachyons classes, so they will work in this theme too! You can copy/paste
-components in order to quickly block out a page, then fill in your content.
-
-### Taste the Rainbow
-
-We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. In the
-site configuration file (`config.toml`), there is a full set of color parameters
-giving you control over the theme color scheme. For an option like `siteBgColor`
-for example, you can just type one of the predefined color names from Tachyons
-and save the file. You can totally customize the theme colors within minutes of
-installing the theme.
-
-```toml
-# basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
-siteBgColor = "near-white"
-sidebarBgColor = "light-gray"
-headingColor = "black"
-textColor = "dark-gray"
-sidebarTextColor = "mid-gray"
-bodyLinkColor = "blue"
-navLinkColor = "near-black"
-sidebarLinkColor = "near-black"
-footerTextColor = "silver"
-buttonTextColor = "near-white"
-buttonBgColor = "black"
-buttonHoverTextColor = "white"
-buttonHoverBgColor = "blue"
-borderColor = "moon-gray"
-```
-
-### Dig Deeper
-
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. We built Blogophonic for you, too. There is a bypass of these
-predefined colors built in, you just need to dig a little deeper. In the theme
-assets, locate and open the main SCSS file (`/assets/main.scss`). After the
-crazy looking variables you probably don't recognize and directly following the
-Tachyons import (`@import 'tachyons';`) you'll see a comment that looks just
-like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-// @import 'custom-colors';
-```
-
-Once you uncomment the `custom-colors` import, it will look like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-@import "custom-colors";
-```
-
-Save that change, and now the color options in the `config.toml` are no longer
-active – they've been bypassed. To customize the colors, locate and open the
-`custom-colors` file found in the theme assets (`/assets/custom-colors.scss`).
-At the top of that file, you'll find a whole new set of variables for all the
-same color options, but this time you get to assign your own HEX codes.
-
-```scss
-// set your custom colors here
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
+Hurricanes are the costliest type of natural disaster in the United States. Every year, these natural phenomena destroy billions of dollars in physical capital, displace thousands, and greatly disrupt local economies. While this damage will never be eliminated, the number of fatalities and the cost of preparing and evacuating can be reduced through improved forecasts. This paper seeks to establish the public’s willingness to pay for further improvement of hurricane forecasts by integrating atmospheric modeling and a double-bounded dichotomous choice method in a large-scale contingent valuation experiment. Using an interactive survey, we focus on areas affected by hurricanes in 2018 to elicit residents’ willingness to pay for improvements along storm track, wind speed, and precipitation forecasts. Our results indicate improvements in wind speed forecast are valued the most, followed by storm track and precipitation, and that maintaining the current annual rate of error reduction for another decade is worth between \$90.25 and \$121.86 per person in vulnerable areas. Our study focuses on areas recently hit by hurricanes in the United States, but the implications of our results can be extended to areas vulnerable to tropical cyclones globally. In a world where the intensity of hurricanes is expected to increase and research funds are limited, these results can inform relevant agencies regarding the effectiveness of different private and public adaptive actions, as well as the value of publicly funded hurricane research programs.

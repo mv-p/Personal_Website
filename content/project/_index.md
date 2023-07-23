@@ -1,5 +1,4 @@
 ---
-author: The R Markdown Team @RStudio
 cascade:
   show_author_byline: true
   show_comments: false
@@ -9,11 +8,11 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 description: Give your projects a place to live online.
-layout: list-grid
+layout: list 
 show_author_byline: true
 show_button_links: false
 show_post_date: false
-show_post_thumbnail: true
+show_post_thumbnail: false
 sidebar:
   author: The R Markdown Team @RStudio
   description: "Projects can be anything!\nCheck out the _index.md file in the /project
@@ -22,7 +21,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: A Project Portfolio To Grow
+title: Select Publications and Working Papers
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
