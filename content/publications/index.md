@@ -12,7 +12,7 @@ Coverage: [UM Press](https://news.miami.edu/rosenstiel/stories/2021/09/public-wi
 
 ## Government Reports 
 
-### [Affordable Housing and Flood Risk Throughout the Region: A Density Analysis of Flood Risk and Social Vulnerability](REACH_web Affordable Housing and Flood RIsk Throughout the Region Report.pdf)
+### [Affordable Housing and Flood Risk Throughout the Region: A Density Analysis of Flood Risk and Social Vulnerability]
 
 **Matthew Varkony** (National Academies of the Sciences Gulf Research Fellow) and The Tampa Bay Regional Planning Council. 
 
