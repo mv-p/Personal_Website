@@ -20,4 +20,6 @@ Coverage: [UM Press](https://news.miami.edu/rosenstiel/stories/2021/09/public-wi
 
 ### [Hurricane Wilma and Affordable Housing in Southeast Florida](chapterone.pdf)
 
-### [Hurricane Irma's Effect on Rental Housing in Florida]()
+### [Hurricane Irma's Effect on Rental Housing in Florida](chaptertwo.pdf)
+
+### [Mobile Homes and Climate Risks in Florida](chapterthree.pdf)
