@@ -25,3 +25,4 @@ Matt Varkony is a Manager in the Climate Change and Sustainability  Services dep
 
 He is a PhD Candidate in the Environmental Science and Policy Department at University of Miami's Rosenstiel School for Marine, Atmospheric, and Earth Sciences. He succesfully defended his dissertation in February 2024 and will be graduating in May 2024. He has a B.Sc (Mathematics and Economics) and MPS (Natural Hazard Analysis) from the University of Miami. His research aims to quantify climate risk throughout coastal communities with a particular focus on highly vulnerable populations. When he is not working on his dissertation he enjoys tutoring and staying active by playing golf or basketball. 
 
+[My Resume](Varkony_Resume.pdf)

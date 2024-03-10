@@ -9,8 +9,8 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle: | 
-  PhD Candidate at The University of Miami
-description: 'This website provides background on my research interests, current work, and publications' 
+  Climate Risk Manager at Ernst & Young
+description: 'This website provides background on my research interests, including blogs and publications on Climate Risk' 
 text_align_left: false
 title: Matt Varkony
 type: home
